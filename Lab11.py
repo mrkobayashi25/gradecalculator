@@ -83,5 +83,3 @@ elif choice == '3':
         plt.ylabel("Number of Students")
         plt.savefig("histogram.png")
         plt.show()
-
-input("Press Enter to exit...")
